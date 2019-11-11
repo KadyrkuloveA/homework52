@@ -1,4 +1,5 @@
 import React from 'react';
+import './random36.css'
 
 class num extends React.Component{
     render() {
